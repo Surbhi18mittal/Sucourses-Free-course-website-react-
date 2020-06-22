@@ -1,0 +1,44 @@
+.App {
+  color:#424242;
+  text-align: center;
+}
+
+
+.left{
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.heading-text{
+  font-size: 5em;
+  line-height: 1.5em;
+  font-style: italic;
+  color: #424242;
+}
+
+.left p{
+  letter-spacing: 2px;
+  word-spacing: 3px;
+  line-height: 1.5em;
+  color: #424242;
+  font-size: 1.2em;
+  text-align: left;
+  width: 50%;
+  margin: auto;
+}
+
+.right{
+  width: 50%;
+  float: right;
+  margin-left: 0;
+}
+
+.right img{
+  margin-top: 5%;
+}
+
+
+img {
+  background-color:  #424242;
+}
